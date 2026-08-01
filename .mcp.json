@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ssh-remote": {
+      "command": "python3",
+      "args": ["ssh_mcp_server.py"]
+    }
+  }
+}
